@@ -29,4 +29,8 @@ public class Voting {
 Enter your age: 
 20
 You are eligible to vote.
+
+Enter your age: 
+16
+You are not eligible to vote.
 */
