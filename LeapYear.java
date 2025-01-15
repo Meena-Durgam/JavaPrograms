@@ -32,4 +32,8 @@ public class LeapYear {
 Enter a year: 
 2025
 2025 is not a leap year.
+
+Enter your age: 
+20
+You are eligible to vote.
 */
