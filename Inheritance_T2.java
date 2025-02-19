@@ -37,7 +37,7 @@ public class Inheritance_T2 {
 		obj.brand = "Toyota";
 		obj.model = "ABC";
 		obj.year = 2023;
-		obj.color = "red";
+		obj.color = "Black";
 
 		// Call the methods
 		obj.drive();
@@ -45,3 +45,8 @@ public class Inheritance_T2 {
 	}
 
 }
+
+/*output
+Driving
+Car is honking
+*/
